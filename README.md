@@ -29,6 +29,7 @@
 - [🛒 电商](#-电商)
 - [🎲 游戏3D](#-游戏3d)
 - [📞 客户服务](#-客户服务)
+- [👔 HR人力资源](#-hr人力资源)
 
 ---
 
@@ -654,6 +655,20 @@
 | **Rosie** | AI电话接听服务 | 免费+付费 | https://heyrosie.com/ |
 | **Vidocu** | 屏幕录制转视频 | 免费+付费 | https://vidocu.ai/ |
 | **AICaller** | 批量自动电话 | 免费+付费 | https://aicaller.io/ |
+
+---
+
+## 👔 HR人力资源
+
+### 📋 招聘求职
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Resume Screener AI** | 专为小型企业、初创公司HR和猎头设计的AI简历筛选工具，批量筛选简历，显著减轻招聘工作量 | 免费+付费 | https://resume-screening.com/ |
+| **SimplePerf** | 专为小团队设计的简单引导式360度绩效评估工具 | 免费+付费 | https://buddieshr.com/simpleperf |
+| **Never Jobless** | AI驱动的LinkedIn消息生成器，提升面试机会 | 免费+付费 | https://neverjobless.com/ |
+| **scale.jobs** | 求职人工助手，帮你找工作 | 付费 | https://scale.jobs/ |
+| **ezJobs** | 自动求职和申请工具 | 免费+付费 | https://getezjobs.com/ |
 
 ---
 
