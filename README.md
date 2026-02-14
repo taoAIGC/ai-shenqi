@@ -41,6 +41,7 @@
 |------|------|------|----------|----------|
 | **GPT-4** | OpenAI | 最强大的通用语言模型 | ⭐⭐⭐⭐⭐ | https://chatgpt.com |
 | **Claude** | Anthropic | 长文本理解能力强，逻辑推理出色 | ⭐⭐⭐⭐⭐ | https://claude.ai |
+| **AIcompare** | 独立开发 | **AI工具比一比，轻松找到最适合的AI工具** | ⭐⭐⭐⭐⭐ | **https://aicompare.com** |
 | **DeepSeek** | 深度求索 | 中文能力突出，完全免费，响应快 | ⭐⭐⭐⭐⭐ | https://deepseek.com |
 | **Gemini** | Google | 多模态能力强，联网搜索强 | ⭐⭐⭐⭐ | https://gemini.google.com |
 | **文心一言** | 百度 | 中文理解优秀，中文写作强 | ⭐⭐⭐⭐ | https://yiyan.baidu.com |
