@@ -157,6 +157,7 @@
 | **AI Color Analysis** | AI色彩分析 | 免费 | https://aicoloranalysis.ai/ |
 | **Kirkify AI** | 病毒式Kirkify表情包制作 | 免费 | https://kirkifyai.ai/ |
 | **Moire Removal** | AI去除摩尔纹 | 免费 | https://moireremoval.com/ |
+| **FixArt AI** | 免费AI视频图像生成器 | 免费 | https://fixart.ai |
 
 ---
 
@@ -235,6 +236,9 @@
 | **Aleph AI** | AI视频编辑转换生成 | 免费+付费 | https://alephai.app |
 | **PDFtoVideo** | PDF转视频 | 免费 | https://pdftovideo.ai/ |
 | **Somny** | AI角色生成器 | 免费+付费 | https://www.somny.com/ |
+| **Vidu AI** | 高质量文本图像转视频平台 | 免费+付费 | https://vidu.ai |
+| **JoyFun AI** | 免费无限AI视频生成器 | 免费 | https://joyfun.ai |
+| **Magicboat AI** | 专业AI短片制作 | 免费+付费 | https://magicboat.ai |
 
 ---
 
