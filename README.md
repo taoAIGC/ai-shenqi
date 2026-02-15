@@ -70,6 +70,10 @@
 | **Mistral** | 7B | 欧洲最强开源 | https://mistral.ai |
 | **DeepSeek-V2** | 236B | 国产开源，性能强 | https://huggingface.co/deepseek-ai |
 | **Yi-34B** | 34B | 零一万物开源 | https://huggingface.co/01-ai |
+| **Grok** | 314B | xAI幽默对话AI，Elon Musk旗下 | https://x.ai/grok |
+| **Mistral Large** | 123B | 欧洲最强旗舰模型 | https://mistral.ai/mistral-large |
+| **Command R+** | 104B | Cohere企业级RAG模型 | https://cohere.com/command |
+| **Phi-4** | 14B | 微软推理模型，小而强大 | https://huggingface.co/microsoft |
 
 ### 💬 对话AI
 
@@ -303,6 +307,11 @@
 | **NeuralTrust** | LLM网关和红队测试 | 免费+付费 | https://neuraltrust.ai/ |
 | **Amazon Q Developer** | IDE编程助手 | 免费+付费 | https://aws.amazon.com/q/developer/build/ |
 | **ChatterBox** | 会议机器人API | 免费+付费 | https://chatter-box.io |
+| **Lovable** | AI全栈应用构建 | 免费+付费 | https://lovable.dev/ |
+| **Bolt.new** | 全栈AI编程助手 | 免费+付费 | https://bolt.new/ |
+| **Groq Cloud** | 极速AI推理API | 免费+付费 | https://groq.com/ |
+| **Continue.dev** | 开源AI编程助手 | 免费 | https://continue.dev/ |
+| **Vercel AI SDK** | AI应用开发框架 | 免费 | https://vercel.com/ai |
 | **Gestell** | 非结构化数据转数据库 | 免费+付费 | https://gestell.ai |
 | **Langfa.st** | AI提示测试分享 | 免费 | https://www.langfa.st |
 | **SocialKit** | 社交媒体视频分析API | 免费+付费 | https://www.socialkit.dev/ |
@@ -389,6 +398,9 @@
 | **Explainpaper** | AI论文阅读助手 | 免费 | https://www.explainpaper.com/ |
 | **GummySearch** | Reddit客户研究AI | 免费+付费 | https://gummysearch.com/ |
 | **Compass** | SaaS研究AI问答 | 免费 | https://www.getwhys.io/compass |
+| **Devv AI** | 程序员专属AI搜索 | 免费+付费 | https://devv.ai/ |
+| **Phind** | 开发者LLM搜索引擎 | 免费 | https://phind.com/ |
+| **Explore AI** | 知识图谱AI搜索 | 免费+付费 | https://exploreai.vercel.app/ |
 
 ---
 
