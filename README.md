@@ -244,6 +244,8 @@
 | **Vidu AI** | 高质量文本图像转视频平台 | 免费+付费 | https://vidu.ai |
 | **JoyFun AI** | 免费无限AI视频生成器 | 免费 | https://joyfun.ai |
 | **Magicboat AI** | 专业AI短片制作 | 免费+付费 | https://magicboat.ai |
+| **Pixwit** | AI视频图像创作平台，适用于社交媒体和营销 | 免费+付费 | https://www.pixwit.ai |
+| **Keevx** | 带逼真数字人的AI视频生成器 | 免费+付费 | https://www.keevx.com |
 
 ---
 
@@ -375,6 +377,7 @@
 | **天工AI** | 昆仑万维，搜索强 | 免费 | https://tiangong.cn |
 | **秘塔搜索** | 没有广告 | 免费 | https://metaso.cn |
 | **博查AI** | 多模型搜索 | 免费 | https://bocha.com |
+| **Lovarank** | AI驱动SEO自动化，增长有机流量 | 免费+付费 | https://www.lovarank.com |
 
 ### 📊 学术搜索
 
@@ -416,6 +419,8 @@
 | **腾讯文档AI** | 协作办公 | 免费 | https://docs.qq.com |
 | **WPS AI** | 金山办公 | 免费+付费 | https://ai.wps.cn |
 | **语雀AI** | 知识库 | 免费+付费 | https://www.yuque.com |
+| **Limecube** | AI网站构建器，SEO优化 | 免费+付费 | https://www.limecube.ai |
+| **Trickle Magic Canvas** | 世界首个代理协作画布 | 免费+付费 | https://trickle.us/magic-canvas |
 
 ### 📈 数据分析
 
