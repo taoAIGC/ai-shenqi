@@ -87,6 +87,8 @@
 | **Netwrck** | AI角色聊天社交网络 | 免费 | https://netwrck.com/ |
 | **ChatSweetie** | 免费AI女友聊天 | 免费 | https://chatsweetie.ai/ |
 | **DoNotPay** | 全球首个AI律师 | 免费+付费 | https://donotpay.com/ |
+| **Wollo.ai** | AI角色聊天平台，创建和交互AI角色 | 免费 | https://wollo.ai |
+| **ChatUp AI** | 免费AI聊天机器人和写作助手 | 免费 | https://chatup.ai |
 
 ---
 
@@ -246,6 +248,7 @@
 | **Magicboat AI** | 专业AI短片制作 | 免费+付费 | https://magicboat.ai |
 | **Pixwit** | AI视频图像创作平台，适用于社交媒体和营销 | 免费+付费 | https://www.pixwit.ai |
 | **Keevx** | 带逼真数字人的AI视频生成器 | 免费+付费 | https://www.keevx.com |
+| **Seedance** | 先进的AI视频生成，真实运动效果 | 免费+付费 | https://seedance.tv |
 
 ---
 
@@ -299,6 +302,7 @@
 | **Interview Solver** | AI编程面试助手 | 免费+付费 | https://interviewsolver.com |
 | **StartKit.AI** | AI产品快速构建模板 | 免费 | https://startkit.ai |
 | **Maxim AI** | 生成式AI评估平台 | 免费+付费 | https://www.getmaxim.ai/ |
+| **Nextbrowser** | AI浏览器自动化工具 | 免费+付费 | https://nextbrowser.ai |
 | **Fine** | 端到端AI编程助手 | 免费 | https://fine.dev/ |
 | **Hexabot** | 开源对话AI构建器 | 免费 | https://hexabot.ai/ |
 | **Kiln** | 构建自定义AI模型 | 免费+付费 | https://getkiln.ai/ |
@@ -395,6 +399,7 @@
 | **Metaphor** | LLM互联网搜索 | 免费+付费 | https://metaphor.systems/ |
 | **Rewind** | 生活搜索引擎 | 免费+付费 | https://www.rewind.ai/ |
 | **You** | AI驱动搜索引擎 | 免费 | https://you.com/apps/discover |
+| **A2E** | 免费创作者AI工具箱 | 免费 | https://a2e.ai |
 | **muse.ai** | 视频内容搜索 | 免费 | https://muse.ai/ |
 | **Refinder AI** | 通用AI搜索助手 | 免费+付费 | https://refinder.ai/ |
 | **Hika AI** | 深度思考AI搜索 | 免费 | https://www.hika.fyi |
