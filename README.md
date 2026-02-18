@@ -249,6 +249,8 @@
 | **Pixwit** | AI视频图像创作平台，适用于社交媒体和营销 | 免费+付费 | https://www.pixwit.ai |
 | **Keevx** | 带逼真数字人的AI视频生成器 | 免费+付费 | https://www.keevx.com |
 | **Seedance** | 先进的AI视频生成，真实运动效果 | 免费+付费 | https://seedance.tv |
+| **海螺AI 2.0** | 字节跳动升级版视频生成，质量大幅提升 | 免费 | https://hailuoai.com |
+| **可灵2.0** | 快手下一代视频生成模型 | 免费+付费 | https://klingai.com |
 
 ---
 
@@ -265,6 +267,8 @@
 | **通义灵码** | 阿里免费，国产首选 | 免费 | https://tongyi.aliyun.com/lingma |
 | **文心快码** | 百度编程 | 免费 | https://maas.baidu.com |
 | **CodeGeeX** | 清华开源 | 免费 | https://codegeex.cn |
+| **Devin** | 全球首个AI软件工程师，由Cognition Labs开发 | 免费+付费 | https://cognition.ai |
+| **Aider** | 开源AI配对编程工具，在终端中使用 | 免费 | https://aider.chat |
 
 ### 🐛 代码调试
 
@@ -409,6 +413,8 @@
 | **Devv AI** | 程序员专属AI搜索 | 免费+付费 | https://devv.ai/ |
 | **Phind** | 开发者LLM搜索引擎 | 免费 | https://phind.com/ |
 | **Explore AI** | 知识图谱AI搜索 | 免费+付费 | https://exploreai.vercel.app/ |
+| **Perplexity Sonar** | Perplexity最新搜索模型，更精准 | 免费+付费 | https://www.perplexity.ai |
+| **Komo** | AI驱动搜索引擎，无广告 | 免费 | https://komo.ai |
 
 ---
 
