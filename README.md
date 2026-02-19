@@ -307,6 +307,10 @@
 | **StartKit.AI** | AI产品快速构建模板 | 免费 | https://startkit.ai |
 | **Maxim AI** | 生成式AI评估平台 | 免费+付费 | https://www.getmaxim.ai/ |
 | **Nextbrowser** | AI浏览器自动化工具 | 免费+付费 | https://nextbrowser.ai |
+| **ZeroClaw** | 快速、小型、完全自主的AI助手基础设施 | 免费 | https://github.com/zeroclaw-labs/zeroclaw |
+| **agent-browser** | 面向AI代理的浏览器自动化CLI工具 | 免费 | https://github.com/AgentDesk/agent-browser |
+| **Antigravity Skills** | 800+Claude Code/Cursor智能体技能集合 | 免费 | https://github.com/rr-anticode/antigravity-awesome-skills |
+| **Ralph** | 自主AI智能体循环工具 | 免费 | https://github.com/sobell/ralph |
 | **Fine** | 端到端AI编程助手 | 免费 | https://fine.dev/ |
 | **Hexabot** | 开源对话AI构建器 | 免费 | https://hexabot.ai/ |
 | **Kiln** | 构建自定义AI模型 | 免费+付费 | https://getkiln.ai/ |
