@@ -90,6 +90,15 @@
 | **Wollo.ai** | AI角色聊天平台，创建和交互AI角色 | 免费 | https://wollo.ai |
 | **ChatUp AI** | 免费AI聊天机器人和写作助手 | 免费 | https://chatup.ai |
 
+### 🆕 新增AI工具（2026年2月）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Superpowers** | 代理技能框架和软件开发方法论，让AI助手具备真实工作能力 | 免费 | https://github.com/obra/superpowers |
+| **Claude Code Telegram** | 强大的Telegram机器人，提供远程访问Claude Code的能力 | 免费 | https://github.com/RichardAtCT/claude-code-telegram |
+| **Freemocap** | 免费动作捕捉工具，让每个人都能使用AI动捕 | 免费 | https://github.com/freemocap/freemocap |
+| **Heretic** | 语言模型的自动审查移除工具，恢复被过滤的内容 | 免费 | https://github.com/p-e-w/heretic |
+
 ---
 
 ## 🎨 AI图像生成
