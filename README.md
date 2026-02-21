@@ -98,6 +98,9 @@
 | **Claude Code Telegram** | 强大的Telegram机器人，提供远程访问Claude Code的能力 | 免费 | https://github.com/RichardAtCT/claude-code-telegram |
 | **Freemocap** | 免费动作捕捉工具，让每个人都能使用AI动捕 | 免费 | https://github.com/freemocap/freemocap |
 | **Heretic** | 语言模型的自动审查移除工具，恢复被过滤的内容 | 免费 | https://github.com/p-e-w/heretic |
+| **Rowboat** | 开源AI助手，具有记忆功能，连接邮箱和会议记录，构建知识图谱 | 免费 | https://github.com/rowboatlabs/rowboat |
+| **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI编码助手控制浏览器 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
 
 ---
 
@@ -278,6 +281,8 @@
 | **CodeGeeX** | 清华开源 | 免费 | https://codegeex.cn |
 | **Devin** | 全球首个AI软件工程师，由Cognition Labs开发 | 免费+付费 | https://cognition.ai |
 | **Aider** | 开源AI配对编程工具，在终端中使用 | 免费 | https://aider.chat |
+| **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI助手控制浏览器进行自动化和调试 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
+| **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
 
 ### 🐛 代码调试
 
@@ -445,6 +450,7 @@
 | **语雀AI** | 知识库 | 免费+付费 | https://www.yuque.com |
 | **Limecube** | AI网站构建器，SEO优化 | 免费+付费 | https://www.limecube.ai |
 | **Trickle Magic Canvas** | 世界首个代理协作画布 | 免费+付费 | https://trickle.us/magic-canvas |
+| **Rowboat** | 开源AI助手，具有记忆功能，连接邮箱和会议记录构建知识图谱 | 免费 | https://github.com/rowboatlabs/rowboat |
 
 ### 📈 数据分析
 
