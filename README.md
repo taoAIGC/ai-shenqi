@@ -74,6 +74,9 @@
 | **Mistral Large** | 123B | 欧洲最强旗舰模型 | https://mistral.ai/mistral-large |
 | **Command R+** | 104B | Cohere企业级RAG模型 | https://cohere.com/command |
 | **Phi-4** | 14B | 微软推理模型，小而强大 | https://huggingface.co/microsoft |
+| **DeepSeek R1** | 671B | 开源推理模型，性能业界领先 | https://deepseek.com |
+| **Claude 3.7 Sonnet** | - | Anthropic最新模型，增强推理编码能力 | https://claude.ai |
+| **Gemini 2.0 Flash** | - | Google最快多模态模型，100万token | https://gemini.google.com |
 
 ### 💬 对话AI
 
@@ -101,6 +104,16 @@
 | **Rowboat** | 开源AI助手，具有记忆功能，连接邮箱和会议记录，构建知识图谱 | 免费 | https://github.com/rowboatlabs/rowboat |
 | **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI编码助手控制浏览器 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
+
+### 🔥 热门AI工具（2026年2月22日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Suno v4** | 重大更新，增强音质，可生成4分钟长音乐 | 免费+付费 | https://suno.ai |
+| **Claude 3.7 Sonnet** | Anthropic最新模型，增强推理和编码能力 | 免费+付费 | https://claude.ai |
+| **DeepSeek R1** | 开源推理模型，性能业界领先，完全免费 | 免费 | https://deepseek.com |
+| **Cursor 1.0** | 革命性AI IDE，增强Agent模式，代码生成能力大幅提升 | 免费+付费 | https://cursor.sh |
+| **Gemini 2.0 Flash** | Google最快多模态模型，100万token上下文窗口 | 免费 | https://gemini.google.com |
 
 ---
 
@@ -196,6 +209,7 @@
 | 名称 | 特点 | 价格 | 访问链接 |
 |------|------|------|----------|
 | **Suno** | AI音乐生成，简单易用 | 免费+付费 | https://suno.ai |
+| **Suno v4** | 重大更新，增强音质，可生成4分钟长音乐 | 免费+付费 | https://suno.ai |
 | **Udio** | AI音乐创作，高质量 | 免费+付费 | https://udio.com |
 | **Mubert** | 背景音乐生成 | 免费+付费 | https://mubert.com |
 | **网易天音** | 网易音乐AI | 免费 | https://music.163.com |
@@ -283,6 +297,7 @@
 | **Aider** | 开源AI配对编程工具，在终端中使用 | 免费 | https://aider.chat |
 | **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI助手控制浏览器进行自动化和调试 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
+| **Cursor 1.0** | 革命性AI IDE，增强Agent模式，代码生成能力大幅提升 | 免费+付费 | https://cursor.sh |
 
 ### 🐛 代码调试
 
