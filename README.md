@@ -105,7 +105,7 @@
 | **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI编码助手控制浏览器 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
 
-### 🔥 热门AI工具（2026年2月22日）
+### 🔥 热门AI工具（2026年2月23日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
 |------|------|------|----------|
@@ -114,6 +114,11 @@
 | **DeepSeek R1** | 开源推理模型，性能业界领先，完全免费 | 免费 | https://deepseek.com |
 | **Cursor 1.0** | 革命性AI IDE，增强Agent模式，代码生成能力大幅提升 | 免费+付费 | https://cursor.sh |
 | **Gemini 2.0 Flash** | Google最快多模态模型，100万token上下文窗口 | 免费 | https://gemini.google.com |
+| **HuggingFace Skills** | AI技能市场 - 发现和分享可复用的AI能力 | 免费 | https://huggingface.co/skills |
+| **Pentagi** | 全自主AI代理系统，可执行复杂渗透测试任务 | 免费 | https://github.com/vxcontrol/pentagi |
+| **GitNexus** | 零服务器代码智能引擎 - 从GitHub仓库创建交互式知识图谱 | 免费 | https://github.com/abhigyanpatwari/GitNexus |
+| **FossFLOW** | AI生成美丽的等距基础设施图表 | 免费 | https://github.com/stan-smith/FossFLOW |
+| **Cloudflare Agents** | 在Cloudflare全球网络上构建和部署AI代理 | 免费+付费 | https://developers.cloudflare.com/agents |
 
 ---
 
@@ -361,6 +366,9 @@
 | **DeepDocs** | 代码发布时更新文档 | 免费 | https://deepdocs.dev/ |
 | **Chat2DB** | AI SQL生成器 | 免费+付费 | https://chat2db.ai/ |
 | **TestSprite** | AI测试工具 | 免费+付费 | https://www.testsprite.com/ |
+| **OpenBB** | 金融数据平台，为分析师、量化交易员和AI代理提供金融数据 | 免费 | https://github.com/OpenBB-finance/OpenBB |
+| **Cloudflare Agents** | 在Cloudflare全球网络上构建和部署AI代理 | 免费+付费 | https://developers.cloudflare.com/agents |
+| **GitNexus** | 零服务器代码智能引擎，从GitHub仓库创建交互式知识图谱 | 免费 | https://github.com/abhigyanpatwari/GitNexus |
 
 ---
 
