@@ -104,8 +104,11 @@
 | **Rowboat** | 开源AI助手，具有记忆功能，连接邮箱和会议记录，构建知识图谱 | 免费 | https://github.com/rowboatlabs/rowboat |
 | **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI编码助手控制浏览器 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
+| **TimesFM** | Google时间序列基础模型 - 2.5版本，2亿参数，支持1.6万上下文长度 | 免费 | https://github.com/google-research/timesfm |
+| **Synkra AIOS** | AI编排的全栈开发系统 - 代理框架，包含规划和开发工作流 | 免费 | https://github.com/SynkraAI/aios-core |
+| **zvec** | 阿里巴巴轻量级进程内向量数据库 - 毫秒级数十亿向量相似性搜索 | 免费 | https://github.com/alibaba/zvec |
 
-### 🔥 热门AI工具（2026年2月23日）
+### 🔥 热门AI工具（2026年2月24日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
 |------|------|------|----------|
