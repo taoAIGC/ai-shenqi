@@ -112,7 +112,7 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
-### 🔥 热门AI工具（2026年2月24日）
+### 🔥 热门AI工具（2026年2月26日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
 |------|------|------|----------|
@@ -126,6 +126,9 @@
 | **GitNexus** | 零服务器代码智能引擎 - 从GitHub仓库创建交互式知识图谱 | 免费 | https://github.com/abhigyanpatwari/GitNexus |
 | **FossFLOW** | AI生成美丽的等距基础设施图表 | 免费 | https://github.com/stan-smith/FossFLOW |
 | **Cloudflare Agents** | 在Cloudflare全球网络上构建和部署AI代理 | 免费+付费 | https://developers.cloudflare.com/agents |
+| **deer-flow** | 字节跳动开源SuperAgent - 支持沙盒、记忆、工具和子代理的研究、编码和创作代理 | 免费 | https://github.com/bytedance/deer-flow |
+| **plano** | 代理应用的交付基础设施 - AI原生代理和数据平面 | 免费 | https://github.com/katanemo/plano |
+| **memU** | 24/7主动AI代理（如OpenClaw）的内存系统 | 免费 | https://github.com/NevaMind-AI/memU |
 
 ---
 
