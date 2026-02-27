@@ -129,6 +129,9 @@
 | **deer-flow** | 字节跳动开源SuperAgent - 支持沙盒、记忆、工具和子代理的研究、编码和创作代理 | 免费 | https://github.com/bytedance/deer-flow |
 | **plano** | 代理应用的交付基础设施 - AI原生代理和数据平面 | 免费 | https://github.com/katanemo/plano |
 | **memU** | 24/7主动AI代理（如OpenClaw）的内存系统 | 免费 | https://github.com/NevaMind-AI/memU |
+| **CC-Switch** | 跨平台桌面全能助手 - 支持Claude Code、Codex、OpenCode和Gemini CLI | 免费 | https://github.com/farion1231/cc-switch |
+| **Ruflo (Claude Flow)** | 企业级AI编排平台 - 部署60+专业化Agent协调蜂群，具备自学习能力 | 免费 | https://github.com/ruvnet/claude-flow |
+| **SpacetimeDB** | 高性能分布式数据库，为实时应用优化 - AI代理即时数据同步首选 | 免费 | https://github.com/clockworklabs/SpacetimeDB |
 
 ---
 
