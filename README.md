@@ -112,7 +112,7 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
-### 🔥 热门AI工具（2026年2月26日）
+### 🔥 热门AI工具（2026年2月27日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
 |------|------|------|----------|
@@ -132,6 +132,7 @@
 | **CC-Switch** | 跨平台桌面全能助手 - 支持Claude Code、Codex、OpenCode和Gemini CLI | 免费 | https://github.com/farion1231/cc-switch |
 | **Ruflo (Claude Flow)** | 企业级AI编排平台 - 部署60+专业化Agent协调蜂群，具备自学习能力 | 免费 | https://github.com/ruvnet/claude-flow |
 | **SpacetimeDB** | 高性能分布式数据库，为实时应用优化 - AI代理即时数据同步首选 | 免费 | https://github.com/clockworklabs/SpacetimeDB |
+| **Ladybird** | 真正独立的网页浏览器 - 首个厂商中立的浏览器项目 | 免费 | https://github.com/LadybirdBrowser/ladybird |
 
 ---
 
