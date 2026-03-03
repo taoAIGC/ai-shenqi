@@ -112,6 +112,15 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月2日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Shannon** | 全自主AI渗透测试工具 - 在XBOW基准测试中达到96.15%成功率，发现真实漏洞而非仅警报 | 免费 | https://github.com/KeygraphHQ/shannon |
+| **WiFi DensePose** | 将WiFi信号转换为实时人体姿态估计、生命体征监测和存在检测，无需任何视频 | 免费 | https://github.com/ruvnet/wifi-densepose |
+| **OpenSandbox** | 阿里巴巴通用AI沙箱平台 - 支持编码代理、GUI代理和强化学习训练 | 免费 | https://github.com/alibaba/OpenSandbox |
+| **Moonshine** | 面向边缘设备的高精度自动语音识别（ASR） | 免费 | https://github.com/moonshine-ai/moonshine |
+
 ### 🔥 热门AI工具（2026年2月27日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
