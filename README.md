@@ -112,6 +112,14 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月3日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **AIRI** | 自托管Grok伴侣 - 虚拟偶像ai，支持实时语音聊天、Minecraft、Factorio游戏。支持Web/macOS/Windows | 免费 | https://github.com/moeru-ai/airi |
+| **learn-claude-code** | 纳米级Claude Code类代理 - 从零构建，12个渐进式课程，从简单循环到隔离自主执行 | 免费 | https://github.com/shareAI-lab/learn-claude-code |
+| **xiaohongshu-mcp** | 小红书MCP工具 - 小红书自动化和集成解决方案 | 免费 | https://github.com/xpzouying/xiaohongshu-mcp |
+
 ### 🔥 热门AI工具（2026年3月2日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
