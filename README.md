@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月4日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Perplexica** | AI驱动的回答引擎 - 使用先进AI提供答案的搜索引擎 | 免费 | https://github.com/ItzCrazyKns/Perplexica |
+| **Flowise** | 可视化构建AI代理 - 低代码/无代码平台，用于构建自定义AI代理 | 免费 | https://github.com/FlowiseAI/Flowise |
+| **AgentScope** | 构建和运行可理解可信任的代理 - 多代理框架，支持分布式计算 | 免费 | https://github.com/agentscope-ai/agentscope |
+| **ReMe** | 代理记忆管理工具包 - 记住我，完善我。AI代理的全面记忆解决方案 | 免费 | https://github.com/agentscope-ai/ReMe |
+| **MoneyPrinterV2** | 在线赚钱自动化工具 - AI驱动的内容创建和变现工具 | 免费 | https://github.com/FujiwaraChoki/MoneyPrinterV2 |
+
 ### 🔥 热门AI工具（2026年3月3日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
