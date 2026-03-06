@@ -112,6 +112,15 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月5日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **MobileAgent** | 强大的GUI代理家族 - 多平台基础GUI代理，实现移动设备自动化 | 免费 | https://github.com/X-PLUG/MobileAgent |
+| **LMCache** | 最快的KV Cache层 - 在长上下文场景下减少TTFT并提高吞吐量 | 免费 | https://github.com/LMCache/LMCache |
+| **Khoj** | 你的AI第二大脑 - 可自托管的个人AI应用，从网络或文档获取答案，构建自定义代理 | 免费 | https://github.com/khoj-ai/khoj |
+| **AReaL** | 闪电般快速的LLM推理和代理强化学习 - 简单灵活的LLM代理强化学习框架 | 免费 | https://github.com/inclusionAI/AReaL |
+
 ### 🔥 热门AI工具（2026年3月4日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
