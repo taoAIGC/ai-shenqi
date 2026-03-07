@@ -139,6 +139,16 @@
 | **learn-claude-code** | 纳米级Claude Code类代理 - 从零构建，12个渐进式课程，从简单循环到隔离自主执行 | 免费 | https://github.com/shareAI-lab/learn-claude-code |
 | **xiaohongshu-mcp** | 小红书MCP工具 - 小红书自动化和集成解决方案 | 免费 | https://github.com/xpzouying/xiaohongshu-mcp |
 
+### 🔥 热门AI工具（2026年3月6日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Qwen-Agent** | 基于Qwen3.0的Agent框架和应用，支持Function Calling、MCP、代码解释器、RAG、Chrome扩展 | 免费 | https://github.com/QwenLM/Qwen-Agent |
+| **seomachine** | 专业的Claude Code工作区，用于创建长篇SEO优化博客内容 | 免费 | https://github.com/TheCraigHewitt/seomachine |
+| **CyberStrikeAI** | Go语言构建的AI原生安全测试平台 - 集成100+安全工具，智能编排引擎 | 免费 | https://github.com/Ed1s0nZ/CyberStrikeAI |
+| **react-grab** | 从网站直接为编程代理选择上下文 - 优化AI代码生成 | 免费 | https://github.com/aidenybai/react-grab |
+| **webnovel-writer** | 基于Claude Code的长篇网文辅助创作系统，支持200万字连载创作 | 免费 | https://github.com/lingfengQAQ/webnovel-writer |
+
 ### 🔥 热门AI工具（2026年3月2日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
