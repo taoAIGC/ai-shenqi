@@ -149,6 +149,16 @@
 | **react-grab** | 从网站直接为编程代理选择上下文 - 优化AI代码生成 | 免费 | https://github.com/aidenybai/react-grab |
 | **webnovel-writer** | 基于Claude Code的长篇网文辅助创作系统，支持200万字连载创作 | 免费 | https://github.com/lingfengQAQ/webnovel-writer |
 
+### 🔥 热门AI工具（2026年3月7日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Superset** | AI代理时代IDE - 在本地运行Claude Code、Codex等多Agent | 免费 | https://github.com/superset-sh/superset |
+| **Scrapling** | 自适应网页抓取框架 - 支持从单请求到全规模爬取 | 免费 | https://github.com/D4Vinci/Scrapling |
+| **Codebuff** | 终端代码生成工具 - AI驱动的终端代码生成 | 免费 | https://github.com/CodebuffAI/codebuff |
+| **Hermes Agent** | 伴随你成长的AI代理 - 来自NousResearch | 免费 | https://github.com/NousResearch/hermes-agent |
+| **Markitdown** | 文档转换工具 - 将文件和Office文档转换为Markdown格式 | 免费 | https://github.com/microsoft/markitdown |
+
 ### 🔥 热门AI工具（2026年3月2日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
