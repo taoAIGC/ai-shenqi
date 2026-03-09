@@ -159,6 +159,15 @@
 | **Hermes Agent** | 伴随你成长的AI代理 - 来自NousResearch | 免费 | https://github.com/NousResearch/hermes-agent |
 | **Markitdown** | 文档转换工具 - 将文件和Office文档转换为Markdown格式 | 免费 | https://github.com/microsoft/markitdown |
 
+### 🔥 热门AI工具（2026年3月8日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **WorldMonitor** | 实时全球情报仪表板 - AI驱动的新闻聚合、地缘政治监测和基础设施追踪 | 免费 | https://github.com/koala73/worldmonitor |
+| **NotebookLM-py** | Google NotebookLM非官方Python API - 从Python或命令行完全编程访问NotebookLM功能 | 免费 | https://github.com/teng-lin/notebooklm-py |
+| **提示工程教程** | Anthropic交互式提示工程教程 - 综合性9章课程，带练习，33000+星 | 免费 | https://github.com/anthropics/prompt-eng-interactive-tutorial |
+| **Claude Skills** | 169个Claude Code、OpenAI Codex和OpenClaw生产级技能和插件 - 工程、营销、产品、合规 | 免费 | https://github.com/alirezarezvani/claude-skills |
+
 ### 🔥 热门AI工具（2026年3月2日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
