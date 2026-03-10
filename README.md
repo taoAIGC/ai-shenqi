@@ -159,6 +159,16 @@
 | **Hermes Agent** | 伴随你成长的AI代理 - 来自NousResearch | 免费 | https://github.com/NousResearch/hermes-agent |
 | **Markitdown** | 文档转换工具 - 将文件和Office文档转换为Markdown格式 | 免费 | https://github.com/microsoft/markitdown |
 
+### 🔥 热门AI工具（2026年3月9日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Anthropic Skills** | Anthropic官方Agent Skills - 构建AI代理能力的公开仓库 | 免费 | https://github.com/anthropics/skills |
+| **RuView** | WiFi DensePose - 将普通WiFi信号转换为实时人体姿态估计、生命体征监测和存在检测，无需任何视频 | 免费 | https://github.com/ruvnet/RuView |
+| **MiroFish** | 简洁通用的群体智能引擎 - 用AI预测万物 | 免费 | https://github.com/666ghj/MiroFish |
+| **WorldMonitor** | 实时全球情报仪表板 - AI驱动的新闻聚合、地缘政治监测和基础设施追踪 | 免费 | https://github.com/koala73/worldmonitor |
+| **OpenSandbox** | 阿里巴巴通用AI沙箱平台 - 支持编码代理、GUI代理、代理评估和强化学习训练 | 免费 | https://github.com/alibaba/OpenSandbox |
+
 ### 🔥 热门AI工具（2026年3月8日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
