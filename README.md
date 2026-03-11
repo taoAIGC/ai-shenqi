@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月10日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Agency Agents** | 完整的AI代理团队 - 从前端开发到Reddit社区运营，每个代理都是具有独特个性与成熟流程的专业化专家 | 免费 | https://github.com/msitarzewski/agency-agents |
+| **MiroFish** | 简洁通用的群体智能引擎 - 预测万物，简洁强大的群体智能框架 | 免费 | https://github.com/666ghj/MiroFish |
+| **Hermes Agent** | 与你共同成长的AI代理 - 持续学习进化的代理框架 | 免费 | https://github.com/NousResearch/hermes-agent |
+| **Page Agent** | 阿里巴巴页面GUI代理 - 用自然语言控制网页界面 | 免费 | https://github.com/alibaba/page-agent |
+| **Vane** | AI驱动的回答引擎 - 高级搜索能力 | 免费 | https://github.com/ItzCrazyKns/Vane |
+
 ### 🔥 热门AI工具（2026年3月5日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
