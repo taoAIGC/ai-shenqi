@@ -112,6 +112,15 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月12日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **AI Hedge Fund** | AI对冲基金团队 - 构建和部署自主AI代理，用于投资研究和投资组合管理 | 免费 | https://github.com/virattt/ai-hedge-fund |
+| **BitNet** | 微软官方1-bit LLM推理框架 - 高效运行1-bit训练的语言模型 | 免费 | https://github.com/microsoft/BitNet |
+| **Promptfoo** | 测试你的提示词、代理和RAG系统 - AI红队/渗透测试工具，比较GPT、Claude、Gemini、Llama性能 | 免费 | https://github.com/promptfoo/promptfoo |
+| **Generative AI** | Google Cloud生成式AI示例代码和笔记本 - 包含Gemini on Vertex AI | 免费 | https://github.com/GoogleCloudPlatform/generative-ai |
+
 ### 🔥 热门AI工具（2026年3月10日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
