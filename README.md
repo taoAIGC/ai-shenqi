@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月13日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **BettaFish** | 微舆：多Agent舆情分析助手 - 打破信息茧房，还原舆情原貌，预测未来走向，辅助决策 | 免费 | https://github.com/666ghj/BettaFish |
+| **deer-flow** | 字节跳动开源SuperAgent - 支持沙盒、记忆、工具和子代理的研究、编码和创作代理 | 免费 | https://github.com/bytedance/deer-flow |
+| **AIRI** | 自托管Grok伴侣 - 虚拟偶像ai，支持实时语音聊天、Minecraft、Factorio游戏。支持Web/macOS/Windows | 免费 | https://github.com/moeru-ai/airi |
+| **NotebookLM-py** | Google NotebookLM非官方Python API - 从Python或命令行完全编程访问NotebookLM功能 | 免费 | https://github.com/teng-lin/notebooklm-py |
+| **fish-speech** | SOTA开源TTS - 高质量开源文本转语音模型 | 免费 | https://github.com/fishaudio/fish-speech |
+
 ### 🔥 热门AI工具（2026年3月12日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
