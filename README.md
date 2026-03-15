@@ -122,6 +122,14 @@
 | **NotebookLM-py** | Google NotebookLM非官方Python API - 从Python或命令行完全编程访问NotebookLM功能 | 免费 | https://github.com/teng-lin/notebooklm-py |
 | **fish-speech** | SOTA开源TTS - 高质量开源文本转语音模型 | 免费 | https://github.com/fishaudio/fish-speech |
 
+### 🔥 热门AI工具（2026年3月14日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Lightpanda Browser** | 专为AI和自动化设计的无头浏览器 - 由Zig构建，性能极快 | 免费 | https://github.com/lightpanda-io/browser |
+| **OpenViking** | 开源AI Agent上下文数据库 - 通过文件系统范式统一管理记忆、资源和技能 | 免费 | https://github.com/volcengine/OpenViking |
+| **Nanochat** | 100美元能买到的最佳ChatGPT - Andrej Karpathy作品 | 免费 | https://github.com/karpathy/nanochat |
+
 ### 🔥 热门AI工具（2026年3月12日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
