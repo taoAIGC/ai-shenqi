@@ -122,6 +122,12 @@
 | **NotebookLM-py** | Google NotebookLM非官方Python API - 从Python或命令行完全编程访问NotebookLM功能 | 免费 | https://github.com/teng-lin/notebooklm-py |
 | **fish-speech** | SOTA开源TTS - 高质量开源文本转语音模型 | 免费 | https://github.com/fishaudio/fish-speech |
 
+### 🔥 热门AI工具（2026年3月15日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **AstrBot** | Agentic IM Chatbot基础设施 - 集成多个IM平台、LLM、插件和AI功能，可以作为OpenClaw的替代方案 | 免费 | https://github.com/AstrBotDevs/AstrBot |
+
 ### 🔥 热门AI工具（2026年3月14日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
