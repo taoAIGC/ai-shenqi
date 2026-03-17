@@ -122,6 +122,16 @@
 | **NotebookLM-py** | Google NotebookLM非官方Python API - 从Python或命令行完全编程访问NotebookLM功能 | 免费 | https://github.com/teng-lin/notebooklm-py |
 | **fish-speech** | SOTA开源TTS - 高质量开源文本转语音模型 | 免费 | https://github.com/fishaudio/fish-speech |
 
+### 🔥 热门AI工具（2026年3月16日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **impeccable** | 设计语言工具，让AI设计助手更好地进行设计 - 提供AI代理设计系统组件 | 免费 | https://github.com/pbakaus/impeccable |
+| **Hindsight** | 代理记忆学习系统 - 随着时间推移基于代理交互不断改进的记忆系统 | 免费 | https://github.com/vectorize-io/hindsight |
+| **Leanstral** | Mistral AI可信vibe-coding开源框架 - 实现可靠的AI辅助编码 | 免费 | https://mistral.ai/news/leanstral |
+| **Voygr** | 面向AI应用和代理的更好地图API - 为AI应用提供地图和位置服务 | 免费 | https://www.voygr.com |
+| **Vera CPU** | Nvidia为Agentic AI专门设计的CPU - 专为高效运行AI代理优化 | 免费 | https://nvidianews.nvidia.com/news/nvidia-launches-vera-cpu-purpose-built-for-agentic-ai |
+
 ### 🔥 热门AI工具（2026年3月15日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
