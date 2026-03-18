@@ -112,6 +112,15 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月18日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **GitNexus** | 零服务器代码智能引擎 - 客户端知识图谱创建器，完全在浏览器中运行。导入GitHub仓库或ZIP文件，即可获得交互式知识图谱和内置Graph RAG代理 | 免费 | https://github.com/abhigyanpatwari/GitNexus |
+| **deepagents** | 基于LangChain和LangGraph构建的Agent工具库 - 配备规划工具、文件系统后端，支持复杂Agent任务的子代理生成 | 免费 | https://github.com/langchain-ai/deepagents |
+| **claude-hud** | Claude Code插件，显示正在发生的事情 - 上下文使用情况、活跃工具、运行中的代理和待办事项进度 | 免费 | https://github.com/jarrodwatts/claude-hud |
+| **Hindsight** | 会学习的Agent记忆系统 - 随着时间推移根据代理交互不断改进的记忆系统 | 免费 | https://github.com/vectorize-io/hindsight |
+
 ### 🔥 热门AI工具（2026年3月13日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
