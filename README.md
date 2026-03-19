@@ -120,6 +120,10 @@
 | **deepagents** | 基于LangChain和LangGraph构建的Agent工具库 - 配备规划工具、文件系统后端，支持复杂Agent任务的子代理生成 | 免费 | https://github.com/langchain-ai/deepagents |
 | **claude-hud** | Claude Code插件，显示正在发生的事情 - 上下文使用情况、活跃工具、运行中的代理和待办事项进度 | 免费 | https://github.com/jarrodwatts/claude-hud |
 | **Hindsight** | 会学习的Agent记忆系统 - 随着时间推移根据代理交互不断改进的记忆系统 | 免费 | https://github.com/vectorize-io/hindsight |
+| **open-swe** | LangChain 开源异步编程 Agent - 适合长流程软件任务和并行处理 issue | 免费 | https://github.com/langchain-ai/open-swe |
+| **Unsloth** | 本地训练与运行开源模型的一体化 Web UI - 支持 Qwen、DeepSeek、gpt-oss、Gemma，显存占用更低 | 免费 | https://github.com/unslothai/unsloth |
+| **OpenShell** | NVIDIA 开源的安全私有 Agent 运行时 - 强调沙箱隔离、本地执行与更安全的自主代理环境 | 免费 | https://github.com/NVIDIA/OpenShell |
+| **NemoClaw** | NVIDIA 推出的 OpenClaw 安全安装插件 - 用于更稳妥地部署和安装 OpenClaw | 免费 | https://github.com/NVIDIA/NemoClaw |
 
 ### 🔥 热门AI工具（2026年3月13日）
 
