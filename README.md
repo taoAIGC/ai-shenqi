@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月19日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **OpenDataLoader PDF** | 面向 AI 数据管道的开源 PDF 解析工具，支持 OCR、结构化抽取，以及 Markdown/HTML/JSON 导出 | 免费 | https://github.com/opendataloader-project/opendataloader-pdf |
+| **get-shit-done** | 面向 Claude Code 的轻量级元提示、上下文工程与规范驱动开发系统，适合构建稳定的 AI 编码工作流 | 免费 | https://github.com/gsd-build/get-shit-done |
+| **KittenTTS** | 体积极小但效果很强的开源 TTS 模型，单模型小于 25MB，适合本地或边缘设备语音生成 | 免费 | https://github.com/KittenML/KittenTTS |
+| **claude-mem** | Claude Code 记忆插件，自动记录编码过程、压缩上下文，并在后续会话中注入相关记忆 | 免费 | https://github.com/thedotmack/claude-mem |
+| **godogen** | 基于 Claude Code 的 Godot 4 游戏生成技能集，可根据游戏描述直接生成完整项目 | 免费 | https://github.com/htdt/godogen |
+
 ### 🔥 热门AI工具（2026年3月18日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
