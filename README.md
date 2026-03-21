@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月20日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **OpenCode** | 开源 AI 编程代理，支持终端、桌面端和 IDE，多会话并行工作，并可接入 Claude、GPT、Gemini 等多种模型 | 免费 | https://opencode.ai |
+| **TaxHacker** | 可自托管的 AI 记账工具，能从小票、发票和 PDF 中自动提取结构化数据，支持自定义提示词与分类 | 免费 | https://github.com/vas3k/TaxHacker |
+| **TradingAgents** | 多 Agent LLM 交易研究框架，内置分析师、辩论、风控和投资组合经理等角色，适合金融研究与模拟决策 | 免费 | https://github.com/TauricResearch/TradingAgents |
+| **Mistral OCR** | 面向 PDF 和图片的文档理解 OCR API，擅长表格、公式、多语言识别，并支持结构化输出 | 付费 | https://mistral.ai/news/mistral-ocr |
+| **Sitefire** | 面向 AI 搜索时代的品牌可见性与 GEO 营销工具，可追踪 ChatGPT、Gemini、Perplexity、Claude、DeepSeek、Grok 中的品牌引用并给出内容优化建议 | 付费 | https://sitefire.ai |
+
 ### 🔥 热门AI工具（2026年3月19日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
