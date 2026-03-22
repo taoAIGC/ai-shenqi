@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月21日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Project N.O.M.A.D.** | 离线优先的知识与教育服务器，内置本地 AI 对话、文档上传、语义检索和离线资料库，适合弱网或无网环境 | 免费 | https://github.com/Crosstalk-Solutions/project-nomad |
+| **PPT Agent** | 基于 Claude Code 的多智能体 PPT 生成工作流，可自动调研主题并生成 Bento Grid 风格的 SVG 幻灯片，还支持 Gemini 审查 | 免费 | https://github.com/zengwenliang416/ppt-agent |
+| **vLLM Studio** | 本地视觉语言模型桌面工具，支持把 PDF 和图片做成结构化 Markdown，适合 OCR 与版面感知提取场景 | 免费 | https://github.com/agentset-ai/vllm-studio |
+| **Vessel Browser** | 面向 AI Agent 的开源浏览器运行时，支持持久化状态、MCP 控制和人工监督界面，适合长期网页自动化任务 | 免费 | https://github.com/unmodeled-tyler/vessel-browser |
+| **AI SDLC Scaffold** | 面向 AI-first 开发的仓库模板，把目标、设计、编码、部署拆成标准阶段，并内置 Agent 指令与文档骨架 | 免费 | https://github.com/pangon/ai-sdlc-scaffold |
+
 ### 🔥 热门AI工具（2026年3月20日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
