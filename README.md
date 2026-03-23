@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月22日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **everything-claude-code** | 面向 Claude Code 的高信号工作流系统，提供可复用技能、记忆模式、安全护栏和代理性能优化方法 | 免费 | https://github.com/affaan-m/everything-claude-code |
+| **browser-use** | 面向 AI Agent 的浏览器自动化框架，让模型理解网页结构、执行操作并完成多步骤在线任务 | 免费 | https://github.com/browser-use/browser-use |
+| **LightRAG** | 更轻量、更易落地的 RAG 框架，强调低复杂度、快速检索和图增强知识召回 | 免费 | https://github.com/HKUDS/LightRAG |
+| **Repomix** | 可将整个代码仓库打包成单个 AI 友好文件，适合代码审查、仓库交接和编程 Agent 上下文准备 | 免费 | https://github.com/yamadashy/repomix |
+| **MCP Toolbox for Databases** | Google 开源的数据库 MCP Server，为 AI Agent 提供更安全、更结构化的 SQL 与数据工作流接入方式 | 免费 | https://github.com/googleapis/genai-toolbox |
+
 ### 🔥 热门AI工具（2026年3月21日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
