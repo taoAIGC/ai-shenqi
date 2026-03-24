@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月23日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **n8n-mcp** | 面向 Claude、Cursor、Windsurf 等助手的 MCP Server，可让 AI 理解 n8n 节点文档、参数和工作流构建能力 | 免费 | https://github.com/czlonkowski/n8n-mcp |
+| **obsidian-skills** | 面向 Obsidian 的 Agent 技能包，让 AI 助手学会处理 Markdown 笔记、Bases、JSON Canvas 和知识库工作流 | 免费 | https://github.com/kepano/obsidian-skills |
+| **MiniMind** | 超轻量开源 GPT 训练项目，可在约 2 小时内从零训练约 2600 万参数的小模型，适合学习大模型原理 | 免费 | https://github.com/jingyaogong/minimind |
+| **cq** | 开源版“Agent 的 Stack Overflow”，让编程 Agent 在团队内持久化、共享并查询经验知识，减少重复踩坑 | 免费 | https://github.com/mozilla-ai/cq |
+| **DefenseClaw** | Cisco 开源的 Agentic AI 安全治理工具，强调策略约束、护栏能力与更安全的企业级 AI Agent 工作流 | 免费 | https://github.com/cisco-ai-defense/defenseclaw |
+
 ### 🔥 热门AI工具（2026年3月22日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
