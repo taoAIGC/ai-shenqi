@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月24日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **supermemory** | 面向 AI 应用和 Agent 的高速记忆引擎与 API，可存储、检索并复用长期上下文，适合构建有记忆能力的工作流 | 免费 | https://github.com/supermemoryai/supermemory |
+| **last30days-skill** | 面向 AI Agent 的趋势研究技能，可同时扫描 Reddit、X、YouTube、Hacker News、Polymarket 和 Web 信息，并生成有依据的近 30 天摘要 | 免费 | https://github.com/mvanhorn/last30days-skill |
+| **ProofShot** | 给 AI 编码 Agent “装上眼睛”的开源 CLI，可录制浏览器验证过程、截图关键步骤，并汇总控制台与服务端错误作为交付证明 | 免费 | https://github.com/AmElmo/proofshot |
+| **Hypura** | 面向 Apple Silicon 的分层 LLM 推理调度器，可把超出内存上限的大模型分配到 GPU、RAM 和 NVMe 上运行，减少崩溃和爆内存问题 | 免费 | https://github.com/t8/hypura |
+| **MoneyPrinterTurbo** | 一键式 AI 短视频生成工具，只需输入主题或关键词，即可自动生成文案、素材、字幕、配音、配乐和高清成片 | 免费 | https://github.com/harry0703/MoneyPrinterTurbo |
+
 ### 🔥 热门AI工具（2026年3月23日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
