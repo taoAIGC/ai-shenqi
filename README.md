@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月25日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **LiteLLM** | 开源 AI Gateway / 代理服务，统一接入 100+ LLM API，兼容 OpenAI 格式，支持路由、护栏、日志与成本追踪 | 免费 | https://github.com/BerriAI/litellm |
+| **claude-subconscious** | 给 Claude Code 增加长期记忆“潜意识”层，让编程 Agent 持续保留上下文、笔记和工作流状态 | 免费 | https://github.com/letta-ai/claude-subconscious |
+| **Strix** | 开源 AI 安全代理，可自动扫描应用漏洞，并帮助开发者更快定位和修复安全问题 | 免费 | https://github.com/usestrix/strix |
+| **Surf** | 面向 LLM 的开源 Web 访问层，让 AI Agent 能以程序化方式浏览、提取并操作网页 | 免费 | https://github.com/44za12/surf |
+| **vibe-eyes** | 让 LLM Agent “看见”浏览器应用的 MCP Server，可通过 Canvas 可视化和调试信号理解界面状态 | 免费 | https://github.com/monteslu/vibe-eyes |
+
 ### 🔥 热门AI工具（2026年3月24日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
