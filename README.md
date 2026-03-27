@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月26日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **oh-my-claudecode** | 面向 Claude Code 的团队优先多 Agent 编排层，内置分阶段执行流水线、深度访谈和跨 CLI 协作工作流 | 免费 | https://github.com/Yeachan-Heo/oh-my-claudecode |
+| **dexter** | 自主金融研究 Agent，可拆解研究任务、拉取实时市场数据、自我校验结果，并输出有数据依据的分析结论 | 免费 | https://github.com/virattt/dexter |
+| **chandra** | 面向 PDF 和图片的 SOTA OCR 模型，保留版面结构并导出 Markdown、HTML、JSON，支持 90+ 语言 | 免费 | https://github.com/datalab-to/chandra |
+| **insanely-fast-whisper** | 超高速本地 Whisper 转写 CLI，结合 Transformers、Optimum 与 Flash Attention，实现更快语音转文字 | 免费 | https://github.com/Vaibhavs10/insanely-fast-whisper |
+| **Sierra Agent Studio** | 企业级客服 AI Agent 构建平台，支持护栏、记忆、仿真测试、可观测性和第三方工具集成 | 付费 | https://sierra.ai |
+
 ### 🔥 热门AI工具（2026年3月25日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
