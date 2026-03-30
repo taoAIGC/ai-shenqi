@@ -112,6 +112,14 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月29日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **claude-howto** | 面向 Claude Code 的可视化实战指南，提供从基础概念到高级 Agent 工作流的可复制模板 | 免费 | https://github.com/luongnv89/claude-howto |
+| **VibeVoice** | 微软开源的前沿语音 AI，适合长时长、多说话人的自然语音生成与对话式音频场景 | 免费 | https://github.com/microsoft/VibeVoice |
+| **Deep-Live-Cam** | 实时换脸与一键视频 Deepfake 工具，只需一张图片即可驱动摄像头或视频输出 | 免费 | https://github.com/hacksider/Deep-Live-Cam |
+
 ### 🔥 热门AI工具（2026年3月26日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
