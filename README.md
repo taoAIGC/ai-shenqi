@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月30日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **claude-code-best-practice** | 面向 Claude Code 的社区最佳实践手册，涵盖工作流、提示词、MCP、Hooks 与日常 Agent 编码技巧 | 免费 | https://github.com/shanraisshan/claude-code-best-practice |
+| **codex-plugin-cc** | OpenAI 推出的 Claude Code 插件，可直接调用 Codex 做代码评审、任务委派与二次实现校验 | 免费 | https://github.com/openai/codex-plugin-cc |
+| **gsd-browser** | 面向 AI Agent 的原生浏览器自动化 CLI，基于 CDP 提供 60+ 命令，覆盖导航、交互、截图、测试与视觉对比 | 免费 | https://github.com/gsd-build/gsd-browser |
+| **abtop** | 像 htop 一样监控 AI 编码 Agent 的终端工具，实时查看 Claude Code / Codex 会话、token、上下文窗口与限流状态 | 免费 | https://github.com/graykode/abtop |
+| **Qodo** | 面向团队的 AI 代码审查与验证平台，强调逻辑缺陷发现、规则校验、合规检查和 PR 质量把关 | 付费 | https://www.qodo.ai/ |
+
 ### 🔥 热门AI工具（2026年3月29日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
