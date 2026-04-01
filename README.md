@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年3月31日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **agent-lightning** | 微软开源的 AI Agent 训练框架，几乎不用改现有代码，就能给 LangChain、AutoGen、OpenAI Agents SDK、CrewAI 等代理接入强化学习与提示优化 | 免费 | https://github.com/microsoft/agent-lightning |
+| **PaddleOCR** | 生产级 OCR 与文档解析工具，可把 PDF 和图片转换成适合 LLM 使用的 Markdown/JSON，支持 100+ 语言，适合 RAG 与 Agent 数据预处理 | 免费 | https://github.com/PaddlePaddle/PaddleOCR |
+| **Cohere Transcribe** | Cohere 开源的 20 亿参数语音识别模型，主打低错误率、高吞吐和 14 种语言转写，适合会议纪要、客服语音与语音自动化场景 | 免费 | https://cohere.com/blog/transcribe |
+| **1-bit Bonsai** | PrismML 推出的 1-bit 超轻量模型系列，面向边缘设备、机器人和实时 Agent，本地推理快、内存占用极低 | 付费 | https://prismml.com/ |
+| **ChatDev** | OpenBMB 推出的零代码多 Agent 编排平台，可通过配置快速搭建深度研究、数据可视化、3D 生成等工作流 | 免费 | https://github.com/OpenBMB/ChatDev |
+
 ### 🔥 热门AI工具（2026年3月30日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
