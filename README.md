@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月1日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Lark CLI** | 飞书官方命令行工具，面向人类与 AI Agent，覆盖消息、文档、多维表格、日历、邮件、任务、会议等业务域，并内置 19 个可复用 Agent Skills | 免费 | https://github.com/larksuite/cli |
+| **OpenSpace** | 面向 OpenClaw、Claude Code、Codex、Cursor 等代理的自进化技能引擎，能从真实任务中学习、共享经验，并持续降低 token 成本 | 免费 | https://github.com/HKUDS/OpenSpace |
+| **DingTalk Workspace CLI** | 钉钉官方命令行工作台，支持人类与 AI Agent 在终端安全操作钉钉，适合企业级消息、日程、文档与协作流程 | 免费 | https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli |
+| **Open Multi-Agent** | 生产级 TypeScript 多 Agent 编排框架，支持角色分工、任务 DAG 调度、共享记忆与跨模型协作 | 免费 | https://github.com/JackChen-me/open-multi-agent |
+| **Open Agent SDK (TypeScript)** | 开源 TypeScript Agent SDK，在进程内运行完整 agent loop，无需子进程或 CLI，适合云端、CI 和 Serverless 部署 | 免费 | https://github.com/codeany-ai/open-agent-sdk-typescript |
+
 ### 🔥 热门AI工具（2026年3月31日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
