@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月2日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **oh-my-codex** | OpenAI Codex CLI 的工作流增强层，补上更强默认提示词、Hooks、Agent 团队、HUD 可视化、项目级指引与持久化状态管理 | 免费 | https://github.com/Yeachan-Heo/oh-my-codex |
+| **OpenHarness** | 面向任意 LLM 的开源终端编程 Agent 框架，支持本地 Ollama、无头 CI 模式、权限控制，以及基于 Git 的可回滚修改 | 免费 | https://github.com/zhijiewong/openharness |
+| **Safari MCP** | 面向 AI Agent 的原生 Safari 浏览器自动化 MCP Server，提供 80 个工具，可直接复用真实登录态与会话，资源占用明显低于 Chrome 方案 | 免费 | https://github.com/achiya-automation/safari-mcp |
+| **Orbit** | 面向桌面工作流的结构化 AI 自动化组件，可帮助 computer-use Agent 执行多步骤 GUI 流程并提取结构化结果 | 免费 | https://github.com/aadya940/orbit |
+| **Roadie** | 通过 HTTP 控制的 USB KVM，可让 AI Agent 或人工在浏览器里查看屏幕，并向手机、电脑或初始化界面发送键盘、鼠标与多点触控输入 | 免费 | https://github.com/VibiumDev/roadie |
+
 ### 🔥 热门AI工具（2026年4月1日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
