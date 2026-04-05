@@ -586,6 +586,7 @@
 | **Chrome DevTools MCP** | Chrome开发者工具MCP，让AI助手控制浏览器进行自动化和调试 | 免费 | https://github.com/ChromeDevTools/chrome-devtools-mcp |
 | **pi-mono** | AI代理工具包：编码代理CLI、统一LLM API、TUI和Web UI库 | 免费 | https://github.com/badlogic/pi-mono |
 | **Cursor 1.0** | 革命性AI IDE，增强Agent模式，代码生成能力大幅提升 | 免费+付费 | https://cursor.sh |
+| **Goose** | 开源可扩展 AI 代理，可调用任意 LLM 执行命令、编辑文件并测试代码 | 免费 | https://github.com/block/goose |
 
 ### 🐛 代码调试
 
@@ -652,6 +653,8 @@
 | **OpenBB** | 金融数据平台，为分析师、量化交易员和AI代理提供金融数据 | 免费 | https://github.com/OpenBB-finance/OpenBB |
 | **Cloudflare Agents** | 在Cloudflare全球网络上构建和部署AI代理 | 免费+付费 | https://developers.cloudflare.com/agents |
 | **GitNexus** | 零服务器代码智能引擎，从GitHub仓库创建交互式知识图谱 | 免费 | https://github.com/abhigyanpatwari/GitNexus |
+| **Microsoft Agent Framework** | 微软开源 AI Agent 框架，支持用 Python 和 .NET 构建、编排与部署多智能体工作流 | 免费 | https://github.com/microsoft/agent-framework |
+| **MLX-VLM** | 面向 Apple Silicon 的视觉语言模型工具包，可在 Mac 本地推理和微调 VLM | 免费 | https://github.com/Blaizzy/mlx-vlm |
 
 ---
 
@@ -757,6 +760,8 @@
 | **Limecube** | AI网站构建器，SEO优化 | 免费+付费 | https://www.limecube.ai |
 | **Trickle Magic Canvas** | 世界首个代理协作画布 | 免费+付费 | https://trickle.us/magic-canvas |
 | **Rowboat** | 开源AI助手，具有记忆功能，连接邮箱和会议记录构建知识图谱 | 免费 | https://github.com/rowboatlabs/rowboat |
+| **Onyx** | 开源工作区 AI 助手，可连接文档、应用和聊天数据，并适配多种 LLM | 免费 | https://github.com/onyx-dot-app/onyx |
+| **DocMason** | 面向复杂本地 Office 文件的 Agent 知识库，把文档流程转成可检索的 AI 上下文 | 免费 | https://github.com/jetxu-llm/docmason |
 
 ### 📈 数据分析
 
