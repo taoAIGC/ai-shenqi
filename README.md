@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月5日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **OpenManus** | 开源通用 AI Agent 框架，灵感来自 Manus，强调自主规划、工具调用和多步骤任务执行 | 免费 | https://github.com/FoundationAgents/OpenManus |
+| **Oumi** | 开源模型平台，可统一完成 GPT-OSS、Qwen3、DeepSeek-R1 等 LLM / VLM 的微调、评测与部署 | 免费 | https://github.com/oumi-ai/oumi |
+| **NanoBrowser** | 开源 Chrome 扩展，让任意 LLM 驱动浏览器自动化，支持多 Agent 网页工作流和自有 API Key | 免费 | https://github.com/nanobrowser/nanobrowser |
+| **Google AI Edge Gallery** | Google AI Edge 推出的端侧 AI 应用展示与体验工具，可在本地设备上运行和体验 GenAI / ML 用例 | 免费 | https://github.com/google-ai-edge/gallery |
+| **OpenMemory** | 面向 LLM 应用的本地持久化记忆存储，可为 Claude Desktop、GitHub Copilot、Codex 等助手复用上下文 | 免费 | https://github.com/CaviraOSS/OpenMemory |
+
 ### 🔥 热门AI工具（2026年4月2日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
