@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月6日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **LiteRT-LM** | Google 开源的端侧大模型推理框架，支持 Android、iOS、Web、桌面与边缘设备，具备 GPU/NPU 加速、多模态输入和函数调用能力 | 免费 | https://github.com/google-ai-edge/LiteRT-LM |
+| **PersonaPlex** | NVIDIA 推出的实时全双工语音对话模型，可通过角色提示词和声音条件控制人格风格，适合低延迟语音 Agent | 免费 | https://github.com/NVIDIA/personaplex |
+| **Freestyle** | 面向 Coding Agent 的基础设施平台，提供完整 Linux 虚拟机沙箱、仓库同步、Webhook、部署与大规模 Agent 运行能力 | 免费+付费 | https://www.freestyle.sh/ |
+| **Gemma Gem** | 浏览器内本地运行 Gemma 4 的 AI 助手扩展，基于 WebGPU，无需云端 API，即可读网页、答问题并执行页面操作 | 免费 | https://github.com/kessler/gemma-gem |
+| **Hippo Memory** | 面向 Claude Code、Codex、Cursor、OpenClaw 等 CLI Agent 的仿生记忆系统，支持遗忘衰减、记忆巩固、召回和可迁移 Markdown 存储 | 免费 | https://github.com/kitfunso/hippo-memory |
+
 ### 🔥 热门AI工具（2026年4月5日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
