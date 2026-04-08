@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月7日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **auto-deep-researcher-24x7** | 面向深度学习实验的自治研究 Agent，可 24/7 持续执行训练、评测、监控与协作，采用 leader-worker 架构和固定大小记忆机制 | 免费 | https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7 |
+| **Learn-Open-Harness** | OpenHarness 官方交互式教程，提供 12 个循序渐进章节，覆盖 Agent Loop、工具调用、记忆机制与多 Agent 工作流 | 免费 | https://github.com/joyehuang/Learn-Open-Harness |
+| **styleseed** | 面向 Claude Code 的一文件 UI/UX 设计增强工具，帮助 AI 生成的界面在布局、间距和视觉细节上更专业 | 免费 | https://github.com/bitjaru/styleseed |
+| **MindAct** | 将 Agent 规划能力与领域知识结合的自治 AI 框架，让助手在垂直场景里具备更强的推理和执行能力 | 免费 | https://github.com/KeploreAI-Lab/MindAct |
+| **claude-obsidian** | 连接 Claude 与 Obsidian 的知识伴侣，可通过 /wiki、/save、/autoresearch 等命令构建可持续积累的长期知识库 | 免费 | https://github.com/AgriciDaniel/claude-obsidian |
+
 ### 🔥 热门AI工具（2026年4月6日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
