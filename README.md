@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月8日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **n8n** | 原生支持 AI 的工作流自动化平台，结合可视化编排、代码扩展、400+ 集成和自托管能力，适合搭建 AI Agent 与业务自动化流程 | 免费+付费 | https://github.com/n8n-io/n8n |
+| **Qdrant** | 面向下一代 AI 应用的高性能向量数据库与向量搜索引擎，适合语义检索、过滤、推荐和大规模 embedding 检索场景 | 免费+付费 | https://github.com/qdrant/qdrant |
+| **Composer** | 面向 AI 编码助手的系统设计与架构图工具，可通过 MCP 连接代码仓库并自动生成架构图，也能根据自然语言协助设计系统 | 免费+付费 | https://www.usecomposer.com/ |
+| **Poke** | 通过短信、iMessage、Telegram 等消息入口使用的通用 AI Agent，可把自然语言需求变成可复用自动化 recipes，处理日程、邮件、健康和开发任务 | 免费+付费 | https://poke.com/ |
+| **Workbench** | Astropad 推出的 AI 时代远程桌面工具，专为查看和接管 Mac 上运行的 AI Agent 任务而设计，支持高保真串流和移动端控制 | 免费+付费 | https://astropad.com/product/workbench/ |
+
 ### 🔥 热门AI工具（2026年4月7日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
