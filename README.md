@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月9日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Archon** | 面向 AI 编码的开源 harness builder，帮助团队把 Agent 开发流程做得更可控、更可复现，也更适合真正落地到生产环境 | 免费 | https://github.com/coleam00/Archon |
+| **DeepTutor** | 原生面向 Agent 的个性化学习助手，把 AI 辅导、学习规划、推理讲解和研究支持整合成完整工作流 | 免费 | https://github.com/HKUDS/DeepTutor |
+| **VoxCPM** | 无需 tokenizer 的多语言文本转语音模型，支持高质量语音生成、创意音色设计和更逼真的声音克隆 | 免费 | https://github.com/OpenBMB/VoxCPM |
+| **GitHub Copilot CLI** | GitHub 推出的终端式 AI 编码助手，把 Copilot 工作流带到命令行里，适合代码生成、审查和多模型协同辅助 | 免费+付费 | https://github.com/github/copilot-cli |
+| **claudian** | 把 Claude Code 直接嵌入 Obsidian 的插件，让笔记库同时变成 AI 协作写作、检索和编辑的工作空间 | 免费 | https://github.com/YishenTu/claudian |
+
 ### 🔥 热门AI工具（2026年4月8日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
