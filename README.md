@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月10日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Multica** | 开源托管式 AI Agent 平台，把 Claude Code、Codex、OpenClaw 等编码代理变成真正可分配任务、可追踪进度、可复用技能的“数字同事” | 免费+付费 | https://github.com/multica-ai/multica |
+| **Twill** | 面向开发团队的云端编码 Agent 服务，可把工程任务委托给云端代理异步执行，并直接拿回可审查的 PR 结果 | 付费 | https://twill.ai/ |
+| **ChatLab** | 本地优先的聊天记录分析桌面应用，支持 WhatsApp、LINE、微信、Discord、Telegram 等导入，并用 AI Agent 做总结、洞察和关系分析 | 免费 | https://github.com/hellodigua/ChatLab |
+| **Skills Hub** | 跨平台 Agent Skills 管理器，一次安装即可把技能同步到 Claude Code、Codex、OpenClaw、Cursor、Gemini CLI 等多种 AI 编码工具 | 免费 | https://github.com/qufei1993/skills-hub |
+| **Git AI** | 面向 Git 工作流的 AI 代码追踪扩展，可标注哪些代码由 AI 生成，并保留对应模型、代理与提示/决策上下文 | 免费+付费 | https://github.com/git-ai-project/git-ai |
+
 ### 🔥 热门AI工具（2026年4月9日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
