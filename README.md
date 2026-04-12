@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月11日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **MemPalace** | 开源本地 AI 记忆系统，保留完整原始对话而不是只存摘要，并提供 MCP 工具，让 Agent 能长期检索项目上下文与历史决策 | 免费 | https://github.com/MemPalace/mempalace |
+| **caveman** | 近期讨论度很高的 Claude Code 技能，通过“穴居人式”极简表达压缩输出，显著降低 token 消耗和上下文成本 | 免费 | https://github.com/JuliusBrussee/caveman |
+| **Career-Ops** | 基于 Claude Code 的开源多 Agent 求职系统，整合岗位搜集、公司研究、打分筛选、面板管理和 PDF 生成流程 | 免费 | https://github.com/santifer/career-ops |
+| **Graphify** | 面向 AI 编码助手的多模态知识图谱工具，可把代码、文档、PDF、截图、视频和笔记转成可查询的项目知识图 | 免费 | https://github.com/safishamsi/graphify |
+| **CodeSight** | 零依赖 AI 上下文生成工具，可自动识别框架、ORM 和项目结构，帮助 Claude Code、Codex 等助手更快理解仓库 | 免费 | https://github.com/Houseofmvps/codesight |
+
 ### 🔥 热门AI工具（2026年4月10日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
