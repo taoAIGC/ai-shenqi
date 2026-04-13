@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月12日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Kronos** | 面向金融市场“语言”的基础模型，把价格序列当作可建模的时序语言，适合做行情预测、量化研究与 AI 驱动的金融分析 | 免费 | https://github.com/shiyu-coder/Kronos |
+| **BlenderMCP** | 连接 Blender 与 Claude / 其他 AI 助手的 MCP 桥梁，可通过自然语言完成 3D 建模、场景编辑、素材检索和 Python 自动化 | 免费 | https://github.com/ahujasid/blender-mcp |
+| **agent-inbox** | 给 AI Agent 一键分配临时真实邮箱的 MCP 服务，让助手能自己完成注册、邮件验证和认证流程，不再卡在人类收验证码这一步 | 免费 | https://github.com/gsd-build/agent-inbox |
+| **Litmus** | 面向 Prompt 和模型评测的 Python 工具，可做 AI 单元测试、模型对比、回归检查与成本优化，适合团队持续验证 AI 质量 | 免费 | https://github.com/litmus4ai/litmus |
+| **MindVault** | 面向 AI 编码工具的长期记忆层，可把代码仓库自动整理为知识图谱、Wiki 与搜索索引，帮助 Agent 跨会话找回上下文 | 免费 | https://github.com/etinpres/mindvault |
+
 ### 🔥 热门AI工具（2026年4月11日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
