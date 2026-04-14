@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月13日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Nocturne Memory** | 面向 MCP Agent 的轻量级长期记忆服务器，支持可回滚、可视化、图结构式记忆，让不同模型、会话和工具之间持续复用上下文 | 免费 | https://github.com/Dataojitori/nocturne_memory |
+| **GEOFlow** | 开源 GEO 内容生产系统，把 AI 任务执行、人工审核和发布流程串成完整工作流，适合搜索导向内容团队批量生产内容 | 免费 | https://github.com/yaojingang/GEOFlow |
+| **obscura** | 面向 AI Agent 与网页抓取场景的无头浏览器，适合需要稳定程序化控制浏览器流程的自动化任务 | 免费 | https://github.com/h4ckf0r0day/obscura |
+| **darwin-skill** | 面向 Claude Code 的自治技能优化工具，可自动评估、改进、测试技能，并按结果决定保留还是回滚 | 免费 | https://github.com/alchaincyf/darwin-skill |
+| **AgentsView** | 本地优先的桌面 / Web 应用，可浏览、搜索和分析 AI 编码会话，支持 Claude Code、Codex、Gemini、Copilot 等多种代理 | 免费 | https://github.com/wesm/agentsview |
+
 ### 🔥 热门AI工具（2026年4月12日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
