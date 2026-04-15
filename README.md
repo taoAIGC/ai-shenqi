@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月14日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **LangAlpha** | 面向金融研究的 Agent 工作台，把 Claude Code 风格的持久化工作区、并行子代理、金融数据工具和自动化调度带进投资分析流程 | 免费 | https://github.com/ginlix-ai/langalpha |
+| **Kontext CLI** | 面向 AI 编码代理的开源凭证管理 CLI，用短期、可审计、按会话过期的凭证替代 .env 长期密钥，适合 GitHub、Stripe 和数据库接入 | 免费 | https://github.com/kontext-security/kontext-cli |
+| **LLM Wiki** | 跨平台桌面知识库应用，可把文档持续编译成 Wiki 式知识库，带知识图谱、Deep Research 和 Obsidian 兼容输出 | 免费 | https://github.com/nashsu/llm_wiki |
+| **codeburn** | 面向 Claude Code / Codex 的交互式 TUI 统计面板，直接读取本地会话记录，分析 token、成本、工具使用和一次成功率 | 免费 | https://github.com/AgentSeal/codeburn |
+| **MOSS-TTS-Nano** | 仅 0.1B 参数的多语言轻量 TTS 模型，支持实时语音生成与声音克隆，可直接在 CPU 上低延迟运行，适合本地部署 | 免费 | https://github.com/OpenMOSS/MOSS-TTS-Nano |
+
 ### 🔥 热门AI工具（2026年4月13日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
