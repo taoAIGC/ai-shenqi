@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月15日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Open Agents** | Vercel 开源的后台编码 Agent 参考应用，包含 Web 界面、持久化工作流、隔离沙箱 VM，以及 GitHub 自动提交 / PR 流程 | 免费 | https://github.com/vercel-labs/open-agents |
+| **Voicebox** | 本地优先的开源语音合成工作室，支持声音克隆、多语言 TTS、音频效果处理和时间线式多角色语音制作 | 免费 | https://github.com/jamiepine/voicebox |
+| **Libretto** | 面向编码 Agent 的浏览器自动化工具包，可查看真实页面、抓取网络请求、录制操作流程，并把脆弱的 UI 自动化改造成更稳的脚本 | 免费 | https://github.com/saffron-health/libretto |
+| **ChatGPT for Excel** | OpenAI 官方 Excel 插件，可直接用自然语言创建、分析和更新表格，同时保留公式、格式和可追踪的改单过程 | 免费+付费 | https://chatgpt.com/apps/spreadsheets/ |
+| **NVIDIA Ising** | NVIDIA 面向量子计算推出的开源 AI 模型家族，覆盖处理器校准与纠错解码，并提供可复用的数据、模型和训练工具链 | 免费 | https://www.nvidia.com/en-us/solutions/quantum-computing/ising/ |
+
 ### 🔥 热门AI工具（2026年4月14日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
