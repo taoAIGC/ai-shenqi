@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月16日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **GenericAgent** | 自进化开源 Agent，从较小的初始技能出发自动扩展技能树，目标是在更低 token 成本下完成更强自治执行 | 免费 | https://github.com/lsdefine/GenericAgent |
+| **cognee** | 面向 AI Agent 的轻量记忆引擎，把知识导入、检索和图谱式长期记忆压缩到少量代码里 | 免费 | https://github.com/topoteretes/cognee |
+| **Claude Opus 4.7** | Anthropic 最新旗舰模型，强化了长时编码任务、指令遵循、高分辨率视觉理解，以及复杂任务中的自检能力 | 免费+付费 | https://www.anthropic.com/news/claude-opus-4-7 |
+| **Qwen3.6-35B-A3B** | 通义千问面向 Agentic Coding 推出的开放模型，主打更强代码能力，并更适合本地或平台化部署使用 | 免费 | https://qwen.ai/blog?id=qwen3.6-35b-a3b |
+| **Android CLI** | Google 重新打造的终端式 Android 开发工具链，适合 AI Agent 完成项目创建、SDK 安装、模拟器管理和官方技能接入 | 免费 | https://android-developers.googleblog.com/2026/04/build-android-apps-3x-faster-using-any-agent.html |
+
 ### 🔥 热门AI工具（2026年4月15日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
