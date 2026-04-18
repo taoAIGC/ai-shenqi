@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月17日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **evolver** | 基于 Genome Evolution Protocol 的自进化 Agent 引擎，可从初始能力出发持续扩展技能树，以更低 token 成本追求更强自治执行 | 免费 | https://github.com/EvoMap/evolver |
+| **omi** | 开源可穿戴与桌面 AI 助手，能看屏幕、听对话，并在真实工作流里提供实时上下文建议 | 免费 | https://github.com/BasedHardware/omi |
+| **OpenSRE** | 开源 AI SRE 工具包，帮助团队构建面向可观测性、故障排查和运维自动化的智能代理 | 免费 | https://github.com/Tracer-Cloud/opensre |
+| **Claude Design** | Anthropic Labs 新推出的 AI 设计工作台，可通过对话快速生成原型、演示文稿、落地页和品牌视觉素材 | 免费+付费 | https://www.anthropic.com/news/claude-design-anthropic-labs |
+| **cogveo** | 面向团队的 AI 工作区平台，支持文件感知 Claude 对话、可复用技能、定时运行和可下载输出 | 免费+付费 | https://cogveo.com |
+
 ### 🔥 热门AI工具（2026年4月16日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
