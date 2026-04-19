@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月18日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Thunderbolt** | 开源跨平台 AI 客户端，覆盖 Web、桌面和移动端，支持自带前沿模型、本地模型或私有化模型，并把数据控制权留在自己手里 | 免费 | https://github.com/thunderbird/thunderbolt |
+| **OpenAI Agents SDK** | OpenAI 推出的轻量多 Agent 开发框架，支持工具调用、handoff、会话管理、Tracing、Guardrails、Sandbox Agent 和实时语音能力 | 免费 | https://github.com/openai/openai-agents-python |
+| **ApplyPilot** | 可自托管的 AI 求职副驾，用多 Agent 流水线自动完成岗位分析、简历/求职信定制、面试准备和投递追踪 | 免费 | https://github.com/eliornl/applypilot |
+| **SmolVM** | 面向 AI Agent 的开源 microVM 运行时，提供一次性隔离电脑，可安全执行代码、运行浏览器、挂载目录、限制网络并保存快照 | 免费 | https://github.com/CelestoAI/SmolVM |
+| **DOMPrompter** | 面向 AI 编码工具的 macOS 可视化桥梁，可直接点击 DOM 元素、记录 CSS 改动并生成结构化提示词，适配 Cursor、Claude Code、Codex 等 | 免费 | https://github.com/hooosberg/DOMPrompter |
+
 ### 🔥 热门AI工具（2026年4月17日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
