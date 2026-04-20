@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月19日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Claude-Code-Game-Studios** | 把 Claude Code 变成完整游戏工作室的开源工作流系统，内置 49 个专业 Agent、72 个技能、质量闸门和接近真实团队分工的协作结构 | 免费 | https://github.com/Donchitos/Claude-Code-Game-Studios |
+| **cc-design** | 面向 Claude Code / Codex 风格 Agent 的高保真 HTML 设计技能，可生成落地页、演示稿、UI Mockup 和交互原型，并带验证与导出流程 | 免费 | https://github.com/ZeroZ-lab/cc-design |
+| **agents-md** | 可直接放进项目根目录的 AGENTS.md 模板，让编码 Agent 更像资深工程师工作：更少跑偏改动、更强验证闭环、更统一的项目指令 | 免费 | https://github.com/TheRealSeanDonahoe/agents-md |
+| **agentjail** | 面向 AI Agent 的极简 Linux 沙箱，支持 rootless 隔离、网络控制、cgroups 限制、seccomp 过滤、快照和持久化工作区 | 免费 | https://github.com/bugthesystem/agentjail |
+| **Auxx.Ai** | 面向中小团队的开源 AI 客服 CRM，可连接邮箱和消息渠道，自动完成工单分类、分流、回复和工作流执行 | 免费+付费 | https://auxx.ai |
+
 ### 🔥 热门AI工具（2026年4月18日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
