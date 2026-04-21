@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月20日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Qwen3.6-Max-Preview** | 阿里通义千问最新预览模型，重点强化推理、编程和 Agent 工具调用能力，适合对话、代码生成和研究类工作流 | 免费+付费 | https://qwen.ai/blog?id=qwen3.6-max-preview |
+| **MCPfinder** | 面向 AI Agent 的 MCP Server 发现工具，可同时检索多个主流注册表，展示可信度信号、所需环境变量，并生成 Claude、Cursor、Claude Code、Cline、Windsurf 等工具可直接使用的安装配置 | 免费 | https://mcpfinder.dev/ |
+| **Mercury Agent** | 权限更收敛的个人 AI Agent，可 24/7 运行在 CLI 或 Telegram 中，内置审批闸门、token 预算、常用工具和可扩展技能，更适合日常自动化 | 免费 | https://github.com/cosmicstack-labs/mercury-agent |
+| **TRELLIS.2 for Apple Silicon** | 微软 TRELLIS.2 图像转 3D 模型的原生 Mac 移植版，让 Apple Silicon 设备无需 NVIDIA GPU 也能在本地生成带纹理的 3D 资产 | 免费 | https://github.com/shivampkumar/trellis-mac |
+| **HiKid** | 面向儿童的本地离线 AI 英语陪练桌面应用，整合语音对话、听说训练、讲故事和本地推理，在保护隐私的同时提升英语练习体验 | 免费 | https://github.com/xiaochong/hi-kid |
+
 ### 🔥 热门AI工具（2026年4月19日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
