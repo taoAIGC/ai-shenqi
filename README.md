@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月21日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Claude Context** | 面向 Claude Code 等编码 Agent 的语义代码搜索 MCP，可把整个代码库转成可检索上下文，只把最相关的代码片段送进提示词，降低大仓库场景下的 token 成本和噪音 | 免费 | https://github.com/zilliztech/claude-context |
+| **planning-with-files** | Manus 风格的持久化 Markdown 规划技能，把计划、待办和执行状态持续写入文件，让 Claude Code、OpenClaw 等 Agent 在长任务里更稳、更不容易跑偏 | 免费 | https://github.com/OthmanAdi/planning-with-files |
+| **Kimi Code CLI** | 月之暗面推出的终端 AI Agent，可读写代码、执行 Shell、抓取网页、支持 MCP，并可通过 ACP 接入 IDE，也提供 VS Code 扩展 | 免费 | https://github.com/MoonshotAI/kimi-cli |
+| **GoModel** | 用 Go 编写的高性能 AI Gateway，提供统一的 OpenAI 兼容 API，可连接 OpenAI、Anthropic、Gemini、Groq、xAI、Ollama 等，并内置可观测性、Guardrails 和流式能力 | 免费 | https://github.com/ENTERPILOT/GoModel |
+| **Cisco AI Agent Security Scanner** | Cisco 推出的 VS Code 安全扫描扩展，可检查 MCP Server、Agent 技能和 AI 生成代码，识别提示注入、数据外传与供应链风险，并把安全编码规则注入 Agent 工作流 | 免费 | https://marketplace.visualstudio.com/items?itemName=Cisco-AI.cisco-ai-security-scanner |
+
 ### 🔥 热门AI工具（2026年4月20日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
