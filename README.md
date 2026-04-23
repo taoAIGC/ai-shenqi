@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月22日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **OpenAI Workspace Agents** | OpenAI 在 ChatGPT 中推出的团队级云端 Agent，可连接企业工具、承接长流程任务、保留记忆、按审批规则行动，并能在 ChatGPT / Slack 中持续运行 | 付费 | https://openai.com/index/introducing-workspace-agents-in-chatgpt/ |
+| **Vercel Skills** | Vercel 开源的 Agent Skills 安装与发现工具，通过 `npx skills` 即可浏览、安装和同步可复用技能，适配 Claude Code、Codex、OpenClaw 等多种 Agent 工具 | 免费 | https://github.com/vercel-labs/skills |
+| **TrendRadar** | AI 驱动的热点舆情监控工具，聚合多平台热榜、RSS、关键词筛选、AI 摘要、翻译和多渠道智能推送，适合持续追踪行业趋势 | 免费 | https://github.com/sansan0/TrendRadar |
+| **Pixelle-Video** | 全自动 AI 短视频引擎，帮助创作者把脚本生成、素材合成、视频生产和发布自动化串成完整流程 | 免费 | https://github.com/AIDC-AI/Pixelle-Video |
+| **Langfuse** | 开源 LLM 工程平台，覆盖观测、评测、提示词管理、数据集和指标分析，方便团队在生产环境持续监控和优化 AI 应用 | 免费+付费 | https://github.com/langfuse/langfuse |
+
 ### 🔥 热门AI工具（2026年4月21日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
