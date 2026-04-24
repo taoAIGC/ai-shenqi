@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月23日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **ml-intern** | Hugging Face 开源的“机器学习实习生”，能自动读论文、跑后训练实验、评估效果并交付模型，把 ML 研究与训练流程串成可执行工作流 | 免费 | https://github.com/huggingface/ml-intern |
+| **Open Notebook** | 开源、可私有部署的 NotebookLM 替代方案，可把文档、链接和笔记整理成可检索的 AI 笔记本，并支持更灵活的分析与总结 | 免费 | https://github.com/lfnovo/open-notebook |
+| **RAG-Anything** | 一体化多模态 RAG 框架，把文本、图片、表格、公式和知识图谱统一进检索流程，适合复杂文档问答与知识库构建 | 免费 | https://github.com/HKUDS/RAG-Anything |
+| **context-mode** | 面向 Claude Code 等编码 Agent 的上下文优化层，可隔离噪声工具输出、压缩上下文，大幅降低 token 消耗 | 免费 | https://github.com/mksglu/context-mode |
+| **RTK** | 用 Rust 编写的 AI 编码代理 CLI 代理，可包装常见开发命令、智能总结输出，在终端工作流里显著节省 token | 免费 | https://github.com/rtk-ai/rtk |
+
 ### 🔥 热门AI工具（2026年4月22日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
