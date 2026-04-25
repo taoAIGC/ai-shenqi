@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月24日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **free-claude-code** | 社区驱动的 Claude Code 免费接入方案，可在终端、VS Code 和类似 Discord 的工作流中使用，降低了开发者体验编码 Agent 的门槛 | 免费 | https://github.com/Alishahryar1/free-claude-code |
+| **Open-Generative-AI** | 开源可自托管的 AI 图片与视频生成工作室，集成 200+ 模型，适合追求更高自由度的创意生成与工作流搭建 | 免费 | https://github.com/Anil-matcha/Open-Generative-AI |
+| **Browser Harness** | 基于 CDP 的自修复浏览器 Harness，让 LLM 直接操作真实浏览器、在执行过程中补写缺失 helper，并更灵活地完成浏览器自动化任务 | 免费 | https://github.com/browser-use/browser-harness |
+| **CC-Canary** | 面向 Claude Code 的漂移检测技能，读取本地 JSONL 会话日志，识别模型回归迹象，并输出可分享的 Markdown / HTML 取证报告 | 免费 | https://github.com/delta-hq/cc-canary |
+| **ESP-Claw** | 乐鑫推出的 IoT 设备 Chat Coding AI Agent 框架，把 Agent 式开发体验带进 ESP 硬件项目与嵌入式软件流程 | 免费 | https://github.com/espressif/esp-claw |
+
 ### 🔥 热门AI工具（2026年4月23日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
