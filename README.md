@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月25日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Roo-Code** | 开源 AI 编码队友，把“一整个开发团队”的多代理能力塞进代码编辑器里，适合复杂编码、调试、分工协作与长任务执行 | 免费 | https://github.com/RooCodeInc/Roo-Code |
+| **claude-code-templates** | 高热度的 Claude Code CLI 工具集，用于配置、模板化和监控 Claude Code 工作流，适合团队沉淀可复用脚手架与规范化 Agent 流程 | 免费 | https://github.com/davila7/claude-code-templates |
+| **DeepEP** | DeepSeek 推出的高效专家并行通信库，面向 MoE 大模型训练与推理，适合追求更高吞吐与更稳基础设施的 AI 系统团队 | 免费 | https://github.com/deepseek-ai/DeepEP |
+| **ds2api** | 轻量级 DeepSeek 转通用 API 中间件，可把客户端协议转换成兼容 OpenAI、Claude、Google 的接口，并支持多账号轮换与便捷部署 | 免费 | https://github.com/CJackHwang/ds2api |
+| **awesome-codex-skills** | 面向 Codex CLI / API 的实用技能集合，覆盖自动化工作流常见场景，适合快速扩展 AI 编码代理的可复用能力库 | 免费 | https://github.com/ComposioHQ/awesome-codex-skills |
+
 ### 🔥 热门AI工具（2026年4月24日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
