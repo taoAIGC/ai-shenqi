@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月26日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **skills** | Matt Pocock 的高热度 Agent Skills 仓库，覆盖需求整理、拆分 issue、TDD、重构规划等真实工程工作流，让 Claude Code 类编码 Agent 更像成熟工程师 | 免费 | https://github.com/mattpocock/skills |
+| **cua** | 开源 computer-use Agent 基础设施，提供沙箱、SDK 和基准测试，帮助团队构建、评测和部署能真正操作 macOS / Linux / Windows 桌面的智能体 | 免费 | https://github.com/trycua/cua |
+| **beads** | 高讨论度的编码 Agent 记忆增强层，重点提升长任务中的上下文保留、召回和连续协作能力，适合多轮开发与调试工作流 | 免费 | https://github.com/gastownhall/beads |
+| **future-agi** | 面向 LLM / AI Agent 应用的端到端平台，覆盖 tracing、评测、仿真、数据集、gateway 和 guardrails，适合持续观测与优化线上 AI 系统 | 免费 | https://github.com/future-agi/future-agi |
+| **text-to-cad** | 开源文本转 CAD 工具链，可把自然语言提示转成 CAD 模型，适合硬件原型设计、Maker 工作流和 AI 辅助 3D 建模 | 免费 | https://github.com/earthtojake/text-to-cad |
+
 ### 🔥 热门AI工具（2026年4月25日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
