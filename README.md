@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月27日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Symphony** | OpenAI 推出的开源 Codex 编排规范，用来协调编码 Agent 的分工、handoff、计划管理与长任务执行，适合更结构化的多 Agent 软件工作流 | 免费 | https://openai.com/index/open-source-codex-orchestration-symphony/ |
+| **stash** | 面向 AI Agent 的持久化记忆层，把 episode、facts 和 working context 存进 Postgres，并自带 MCP Server，适合自托管长期记忆与上下文召回 | 免费 | https://github.com/alash3al/stash |
+| **harmonist** | 便携式 AI Agent 编排框架，强调机械化协议约束与低运行时依赖，适合协调大规模多 Agent 流程 | 免费 | https://github.com/GammaLabTechnologies/harmonist |
+| **freellmapi** | OpenAI 兼容代理层，可聚合多个 AI 服务商的免费额度并自动故障切换，适合轻量实验、多模型联调与低成本测试 | 免费 | https://github.com/tashfeenahmed/freellmapi |
+| **Hy3-preview** | 腾讯混元推出的预览版推理 / Agent 模型，主打更高能力成本比，适合通用推理、Agent 工作流和模型实验 | 免费 | https://github.com/Tencent-Hunyuan/Hy3-preview |
+
 ### 🔥 热门AI工具（2026年4月26日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
