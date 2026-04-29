@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月28日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Nemotron 3 Nano Omni** | NVIDIA 新发布的轻量多模态模型，把视觉、音频和语言统一到一个 Agent 模型里，适合实时助手、语音交互和低成本部署 | 免费 | https://blogs.nvidia.com/blog/nemotron-3-nano-omni-multimodal-ai-agents/ |
+| **Laguna XS.2 and M.1** | Poolside 新发布的代码 / 推理模型组合，面向更长任务链的软件开发与 Agent 编码工作流，强调复杂工程场景下的执行能力 | 免费 | https://poolside.ai/blog/laguna-a-deeper-dive |
+| **ace-step-ui** | ACE-Step 1.5 的开源专业级界面，适合本地搭建 AI 音乐生成工作台，提供更像 Suno 替代品的创作体验 | 免费 | https://github.com/fspecii/ace-step-ui |
+| **bux** | browser-use 推出的 24/7 Claude Code 常驻 Agent，把持续运行能力和 Browser Harness 结合起来，适合自有机器上的长期浏览器自动化任务 | 免费 | https://github.com/browser-use/bux |
+| **BYOB** | “Bring Your Own Browser” 浏览器接入层，让 AI Agent 直接接管你已经打开的 Chrome，会比新开隔离浏览器更省配置、更贴近真实使用环境 | 免费 | https://github.com/wxtsky/byob |
+
 ### 🔥 热门AI工具（2026年4月27日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
