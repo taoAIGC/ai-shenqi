@@ -112,6 +112,15 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年4月29日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **Warp** | 开源的 Agentic 开发环境，把现代终端与云端 Agent 编排结合起来，适合并行编码、自动化执行和更流畅的开发工作流 | 免费 | https://github.com/warpdotdev/warp |
+| **jcode** | 新一代编码 Agent Harness，强调多会话协作、深度可定制性和高性能终端体验，适合复杂开发任务持续推进 | 免费 | https://github.com/1jehuang/jcode |
+| **Craft Agents** | Craft 开源的文档优先 Agent 工作台，支持直观多任务、共享会话和更偏 UI 化的智能体协作方式 | 免费 | https://github.com/lukilabs/craft-agents-oss |
+| **daily_stock_analysis** | 基于大模型的 A/H/美股智能分析系统，整合行情、实时新闻、决策仪表盘和多渠道定时推送能力 | 免费 | https://github.com/ZhuLinsen/daily_stock_analysis |
+
 ### 🔥 热门AI工具（2026年4月28日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
