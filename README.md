@@ -112,6 +112,16 @@
 | **RuVector** | Rust高性能向量和图数据库，专为AI和代理系统设计 | 免费 | https://github.com/ruvnet/ruvector |
 | **PersonaLive** | 用于直播的逼真Portrait图像动画 - CVPR 2026 | 免费 | https://github.com/GVCLab/PersonaLive |
 
+### 🔥 热门AI工具（2026年5月1日）
+
+| 名称 | 特点 | 价格 | 访问链接 |
+|------|------|------|----------|
+| **browserbase/skills** | 面向浏览器场景的 Claude Agent SDK，内置可复用网页操作技能，适合页面查看、流程自动化和浏览器原生 AI Agent 工作流 | 免费 | https://github.com/browserbase/skills |
+| **mike** | 开源 AI 法律平台，覆盖法律起草、检索与流程自动化，是垂直 AI 工具里 GitHub 增长很快的新项目 | 免费 | https://github.com/willchen96/mike |
+| **chromex** | 基于 Codex 的 Chrome 侧边栏助手，能结合页面上下文、标签页、语音和图像工作流提升浏览器内生产力 | 免费 | https://github.com/GENEXIS-AI/chromex |
+| **gpt-image-canvas** | 基于 tldraw 的本地专业 AI 画布，适合视觉创意、提示词出图和轻量级图像编辑工作流 | 免费 | https://github.com/mrslimslim/gpt-image-canvas |
+| **composio** | 面向 AI Agent 的多平台工具接入 SDK，支持 MCP、OAuth 和可组合动作，方便把智能体连接到真实应用与自动化流程 | 免费 | https://github.com/warpdot-dev/composio |
+
 ### 🔥 热门AI工具（2026年4月29日）
 
 | 名称 | 特点 | 价格 | 访问链接 |
